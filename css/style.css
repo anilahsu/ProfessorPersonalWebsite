@@ -1,0 +1,12 @@
+* {
+    font-family: 'Arial', 'Noto Sans TC', '微軟正黑體', sans-serif;
+}
+.nav-link{
+    color: #008AC4;
+}
+a{
+    color: #008AC4;
+}
+.card.left{
+    background-color:rgba(193, 203, 230, 0.205);
+}
