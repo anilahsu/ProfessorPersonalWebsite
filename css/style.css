@@ -1,5 +1,5 @@
 * {
-    font-family: 'Arial', 'Noto Sans TC', '微軟正黑體', sans-serif;
+    font-family: 'Arial', 'Noto Sans TC','Segoe Script;', '微軟正黑體', sans-serif;
 }
 .nav-link{
     color: #008AC4;
@@ -9,4 +9,11 @@ a{
 }
 p{
     line-height: 1.8;
+}
+.bottom{
+    width:1090px;
+    margin-bottom: 8px;
+}
+.navbar{
+    padding: 16px 48px;
 }

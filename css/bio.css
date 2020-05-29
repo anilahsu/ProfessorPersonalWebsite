@@ -4,8 +4,11 @@
     padding: 2px 8px ;
 }
 .profess{
-    border-bottom:#28a7e1 2px solid;
+    border-bottom:#28a7e1 3px solid;
 }
 .honors{
-    border-bottom:#28a7e1 2px solid;
+    border-bottom:#28a7e1 3px solid;
+}
+.bio{
+    margin-left:  60px;
 }

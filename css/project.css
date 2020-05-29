@@ -1,0 +1,45 @@
+
+.project{
+    background-color: #ffffff;
+    padding:0rem 2rem;
+    line-height: 30px;
+}
+.Award{
+    background-color:#ffffff;
+    padding:1rem 5rem;
+    margin-bottom: 2rem;
+    
+}
+.p1{
+    border-left: #28a7e1 8px solid;
+    padding: 2px 8px;
+}
+.cooperate{
+    background-color: #ffffff;
+    border-radius: 1rem;
+    padding:1rem 5rem;
+    margin-bottom: 2rem;   
+}
+.p2{
+    border-left: #28a7e1 8px solid;
+    padding: 2px 8px;
+}
+
+.Topic{
+    padding:1rem 5rem;
+    border-radius: 1rem;
+    background-color:#ffffff ;
+}
+.p3{
+    border-left: #28a7e1 8px solid;
+    padding: 2px 8px;
+}
+.Topic1{
+    padding: 2rem;
+}
+.Topic2{
+    padding: 2rem;
+}
+.Topic3{
+    padding: 2rem;
+}

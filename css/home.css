@@ -5,3 +5,27 @@ img.radius {
 img.jessica{
   width: 200px;
 }
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+	font-weight: 700;
+}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    background-color: #28a6e1c0;
+} 
+.personal-card{
+	background-color: #ffffff;
+	border-radius: 1rem;
+	box-shadow:2px 2px 4px rgb(131, 131, 131);
+	padding: 1rem;
+}
+
+.header{
+	margin-top: 40px;
+	margin-left: 40px;
+}
+.about-me{
+	width: 200px;
+	margin-bottom: 20px;
+}

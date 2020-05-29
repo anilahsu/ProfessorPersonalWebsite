@@ -2,3 +2,65 @@
     border-left: #28a7e1 8px solid;
     padding: 2px 8px ;
 }
+.img1,.img2{
+    height: 140px;
+}
+.img4{
+    height: 160px;
+    margin-top: 20px;
+}
+.img3{
+    margin-top: 20px;
+    height:160px;
+}
+.interests{
+    border-radius: 1rem;
+    padding: 30px 10px;
+    margin: 10px 80px;
+}
+.table1{
+    border-radius: 0.6rem;
+	box-shadow:2px 2px 4px rgb(131, 131, 131);
+    height: 220px;
+    
+}
+.table2{
+    border-radius: 0.6rem;
+    box-shadow:2px 2px 4px rgb(131, 131, 131);
+    height: 220px;
+}
+.table3{
+    border-radius: 0.6rem;
+	box-shadow:2px 2px 4px rgb(131, 131, 131);
+}
+.table4{
+    border-radius: 0.6rem;
+	box-shadow:2px 2px 4px rgb(131, 131, 131);
+}
+.marketing{
+    padding: 10px 60px 5px 80px;
+    
+}
+.other{
+    background-color: #28a6e1d7;
+}
+.ai{
+    width: 200px;
+    height: 180px;
+    border-radius: 50px;
+    background-color: #ffffff;
+    padding-top: 5px;
+}
+.machine{
+    width: 200px;
+    height: 180px;
+    border-radius: 50px;
+    background-color: #ffffff;
+}
+.data{
+    width: 200px;
+    height: 180px;
+    border-radius: 50px;
+    background-color: #ffffff;
+    padding: 20px;
+}
