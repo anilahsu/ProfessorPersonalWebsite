@@ -2,30 +2,33 @@ img.radius {
 	width: 200px;
 	border-radius: 50%;
 }
-img.jessica{
-  width: 200px;
-}
 
 .h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
 	font-weight: 700;
 }
+img.jessica{
+  width: 600px;
+}
 
 .jumbotron {
-    padding: 2rem 1rem;
-    background-color: #28a6e1c0;
+	padding: 2rem 1rem 0rem 1rem;
+	background-color: rgba(0, 137, 196, 0.486);
+	margin-bottom: 0PX;
+    
 } 
 .personal-card{
 	background-color: #ffffff;
-	border-radius: 1rem;
-	box-shadow:2px 2px 4px rgb(131, 131, 131);
+	border-radius: 1rem;	
 	padding: 1rem;
 }
 
 .header{
-	margin-top: 40px;
-	margin-left: 40px;
+	margin-bottom: 20px;
+	margin-top: 60px;
+	margin-left: 60px;
+	margin-right: 40px;
+	padding: 10px ;
 }
 .about-me{
 	width: 200px;
-	margin-bottom: 20px;
 }

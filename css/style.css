@@ -2,7 +2,7 @@
     font-family: 'Arial', 'Noto Sans TC','Segoe Script;', '微軟正黑體', sans-serif;
 }
 .nav-link{
-    color: #008AC4;
+    color: #ffffff;
 }
 a{
     color: #008AC4;
@@ -16,4 +16,19 @@ p{
 }
 .navbar{
     padding: 16px 48px;
+}
+img.jessica{
+  width: 600px;
+}
+
+.jumbotron {
+	padding: 2rem 1rem 0rem 1rem;
+	background-color: rgba(0, 137, 196, 0.486);
+	margin-bottom: 0PX;
+    
+} 
+.personal-card{
+	background-color: #ffffff;
+	border-radius: 1rem;	
+    padding: 1rem;
 }
