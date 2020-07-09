@@ -1,0 +1,10 @@
+.p1,.p2{
+    border-left: #28a7e1 8px solid;
+    padding: 0px 8px;
+}
+.journal{
+    padding: 0rem 4rem 0rem 2rem;
+}
+.items li{
+  margin-bottom: 8px;
+}

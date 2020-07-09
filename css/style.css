@@ -11,14 +11,14 @@ p{
     line-height: 1.8;
 }
 .bottom{
-    width:1090px;
+    width:100%;
     margin-bottom: 8px;
 }
 .navbar{
     padding: 16px 48px;
 }
 img.jessica{
-  width: 600px;
+  width: 100%;
 }
 
 .jumbotron {
@@ -31,4 +31,12 @@ img.jessica{
 	background-color: #ffffff;
 	border-radius: 1rem;	
     padding: 1rem;
+}
+.mail,.linkedin{
+    font-size: 14px;
+    background-color:rgba(0, 137, 196, 0.884);
+    color: #ffffff;
+    border-radius: 50%;
+    padding: 4px;
+    /* margin-top: 45px; */
 }
