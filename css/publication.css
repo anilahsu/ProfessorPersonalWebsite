@@ -4,6 +4,8 @@
 }
 .journal{
     padding: 0rem 4rem 0rem 2rem;
+    margin-right: auto;
+    margin-left: auto;
 }
 .items li{
   margin-bottom: 8px;
